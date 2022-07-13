@@ -1,0 +1,26 @@
+{
+  "name": "spotyfacts",
+  "version": "1.0.0",
+  "description": "ola",
+  "main": "eh",
+  "scripts": {
+    "test": "noc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lara-kanevsky/spotyfacts.git"
+  },
+  "keywords": [
+    "em"
+  ],
+  "author": "laruwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lara-kanevsky/spotyfacts/issues"
+  },
+  "homepage": "https://github.com/lara-kanevsky/spotyfacts#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.2.8"
+  }
+}
